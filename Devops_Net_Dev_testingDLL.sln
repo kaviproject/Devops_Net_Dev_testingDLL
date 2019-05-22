@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devops_Net_Dev_testingDLL", "Devops_Net_Dev_testingDLL\Devops_Net_Dev_testingDLL.csproj", "{27D06024-48B1-4482-BC14-CCF833559878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D06024-48B1-4482-BC14-CCF833559878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D06024-48B1-4482-BC14-CCF833559878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D06024-48B1-4482-BC14-CCF833559878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D06024-48B1-4482-BC14-CCF833559878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547F8026-1011-4235-B23B-6FCB0B5519AA}
+	EndGlobalSection
+EndGlobal
